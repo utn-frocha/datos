@@ -1,0 +1,2439 @@
+id,Number of reported deaths from cholera,Cholera case fatality rate,WHO Region
+1,5,0.7,Eastern Mediterranean
+2,8,0.01,Eastern Mediterranean
+3,4,0,Eastern Mediterranean
+4,14,0.35,Eastern Mediterranean
+5,0,0.1,Eastern Mediterranean
+6,44,1.18,Eastern Mediterranean
+7,10,0.42,Eastern Mediterranean
+8,11,1.66,Eastern Mediterranean
+9,22,0.5,Eastern Mediterranean
+10,0,0,Eastern Mediterranean
+11,7,17.07,Eastern Mediterranean
+12,,,Eastern Mediterranean
+13,114,2.53,Eastern Mediterranean
+14,198,4.57,Eastern Mediterranean
+15,152,0.62,Eastern Mediterranean
+16,0,0,Eastern Mediterranean
+17,125,3,Eastern Mediterranean
+18,624,3.14,Eastern Mediterranean
+19,118,0.3,Eastern Mediterranean
+20,931,2.51,Eastern Mediterranean
+21,55,25.23,Eastern Mediterranean
+22,199,22.44,Eastern Mediterranean
+23,25,3.99,Europe
+24,0,0,Africa
+25,0,0,Africa
+26,4,3.39,Africa
+27,0,0,Africa
+28,20,1.54,Africa
+29,0,0,Africa
+30,30,4.29,Africa
+31,0,0,Africa
+32,0,0,Africa
+33,9,4.13,Africa
+34,18,2.93,Africa
+35,94,3.74,Africa
+36,13,5.91,Africa
+37,9,3.44,Africa
+38,30,10.49,Africa
+39,118,10.13,Africa
+40,50,6.78,Africa
+41,74,12.23,Africa
+42,71,10.99,Africa
+43,110,8.26,Africa
+44,3,3.8,Africa
+45,3,1.4,Africa
+46,86,1.29,Africa
+47,98,8.07,Africa
+48,110,6.08,Africa
+49,30,2.02,Africa
+50,88,4.36,Africa
+51,243,2.31,Africa
+52,513,2.78,Africa
+53,2722,4.05,Africa
+54,0,0,Africa
+55,42,3.22,Africa
+56,248,7.53,Africa
+57,187,5.43,Africa
+58,184,5.1,Africa
+59,582,6.78,Africa
+60,809,8.49,Africa
+61,925,5.26,Africa
+62,1542,9.95,Africa
+63,1403,8.65,Africa
+64,31,4.27,Africa
+65,4,4.55,Africa
+66,34,3.64,Africa
+67,9,3.42,Africa
+68,24,8.96,Africa
+69,,,Africa
+70,0,0,Americas
+71,12,1.88,Americas
+72,5,1.05,Americas
+73,1,0.53,Americas
+74,15,1.69,Americas
+75,34,1.45,Americas
+76,0,0,Europe
+77,0,0,Western Pacific
+78,,,Western Pacific
+79,0,0,Western Pacific
+80,0,0,Western Pacific
+81,0,0,Western Pacific
+82,0,0,Western Pacific
+83,0,0,Western Pacific
+84,0,0,Western Pacific
+85,0,0,Western Pacific
+86,0,0,Western Pacific
+87,0,0,Western Pacific
+88,,,Western Pacific
+89,,,Western Pacific
+90,,,Western Pacific
+91,0,0,Western Pacific
+92,,,Western Pacific
+93,0,0,Western Pacific
+94,0,0,Western Pacific
+95,0,0,Western Pacific
+96,0,0,Western Pacific
+97,0,0,Western Pacific
+98,0,0,Western Pacific
+99,0,0,Western Pacific
+100,0,0,Western Pacific
+101,0,0,Western Pacific
+102,0,0,Western Pacific
+103,0,0,Western Pacific
+104,0,0,Western Pacific
+105,0,0,Western Pacific
+106,0,0,Western Pacific
+107,0,0,Western Pacific
+108,0,0,Western Pacific
+109,0,0,Western Pacific
+110,0,0,Western Pacific
+111,0,0,Europe
+112,,,Europe
+113,,,Europe
+114,0,0,Europe
+115,,,Europe
+116,0,0,Europe
+117,0,0,Europe
+118,0,0,Europe
+119,0,0,Europe
+120,0,0,Europe
+121,0,0,Americas
+122,,,Americas
+123,0,0,Eastern Mediterranean
+124,0,0,Eastern Mediterranean
+125,2,0.22,Eastern Mediterranean
+126,0,0,Eastern Mediterranean
+127,4,5.41,Eastern Mediterranean
+128,0,0,Eastern Mediterranean
+129,16,1.57,South-East Asia
+130,63,1.83,South-East Asia
+131,26,2.44,South-East Asia
+132,95,4.85,South-East Asia
+133,0,0,South-East Asia
+134,61,2.66,South-East Asia
+135,41,7.3,South-East Asia
+136,0,0,South-East Asia
+137,29,6.05,South-East Asia
+138,0,0,South-East Asia
+139,4,4.88,South-East Asia
+140,2,2.13,South-East Asia
+141,43,7.53,South-East Asia
+142,23,4.4,South-East Asia
+143,21,0.97,South-East Asia
+144,81,1.45,South-East Asia
+145,354,3.4,South-East Asia
+146,62,6.48,South-East Asia
+147,117,2.39,South-East Asia
+148,173,3.08,South-East Asia
+149,369,18.74,South-East Asia
+150,201,18.98,South-East Asia
+151,386,16.48,South-East Asia
+152,1889,25.46,South-East Asia
+153,1556,21,South-East Asia
+154,614,19.46,South-East Asia
+155,369,55.57,South-East Asia
+156,1234,39.12,South-East Asia
+157,683,60.82,South-East Asia
+158,2419,72.58,South-East Asia
+159,1248,31.4,South-East Asia
+160,1304,51.66,South-East Asia
+161,1703,63.95,South-East Asia
+162,6272,40.16,South-East Asia
+163,11056,65.36,South-East Asia
+164,10119,64.74,South-East Asia
+165,5134,63.74,South-East Asia
+166,15310,64.6,South-East Asia
+167,9802,58.9,South-East Asia
+168,9443,60.47,South-East Asia
+169,16904,61.18,South-East Asia
+170,12884,60.91,South-East Asia
+171,12372,59.21,South-East Asia
+172,12947,43.43,South-East Asia
+173,0,0,Europe
+174,0,0,Europe
+175,0,0,Europe
+176,0,0,Europe
+177,0,0,Europe
+178,0,0,Europe
+179,,,Europe
+180,0,0,Europe
+181,0,0,Europe
+182,0,0,Europe
+183,0,0,Europe
+184,0,0,Americas
+185,1,3.57,Americas
+186,0,0,Americas
+187,0,0,Americas
+188,1,5.26,Americas
+189,1,16.67,Americas
+190,3,2.22,Americas
+191,4,2.52,Americas
+192,13,1.7,Africa
+193,12,1.4,Africa
+194,6,1.14,Africa
+195,3,0.48,Africa
+196,4,0.53,Africa
+197,8,0.81,Africa
+198,1,1.35,Africa
+199,5,0.51,Africa
+200,1,1.1,Africa
+201,11,1.47,Africa
+202,9,1.4,Africa
+203,11,2.53,Africa
+204,13,4.81,Africa
+205,71,1.8,Africa
+206,11,2.35,Africa
+207,25,2.92,Africa
+208,1,0.49,Africa
+209,16,2.01,Africa
+210,203,3.28,Africa
+211,12,5.91,Africa
+212,20,10.7,Africa
+213,2,20,Africa
+214,17,4.12,Africa
+215,259,3.47,Africa
+216,13,5.35,Africa
+217,0,0,Africa
+218,0,0,Africa
+219,0,0,Africa
+220,0,0,Africa
+221,0,0,Africa
+222,0,0,Africa
+223,0,0,Africa
+224,14,9.59,Africa
+225,1,2.22,Africa
+226,4,5.48,Africa
+227,2,66.67,Africa
+228,29,11.6,Africa
+229,274,12.85,Africa
+230,37,21.14,Africa
+231,0,0,South-East Asia
+232,0,0,South-East Asia
+233,6,1.21,South-East Asia
+234,19,4.5,South-East Asia
+235,7,1.5,Americas
+236,18,1.1,Americas
+237,68,2.39,Americas
+238,54,2.36,Americas
+239,46,1.7,Americas
+240,254,2.51,Americas
+241,395,1.77,Americas
+242,12,5.83,Americas
+243,2,13.33,Africa
+244,1,12.5,Africa
+245,0,0,Africa
+246,0,0,Africa
+247,0,0,Americas
+248,0,0,Americas
+249,0,0,Americas
+250,0,0,Americas
+251,17,2.38,Americas
+252,83,1.85,Americas
+253,27,1.05,Americas
+254,37,1.28,Americas
+255,33,0.6,Americas
+256,85,0.53,Americas
+257,452,0.91,Americas
+258,644,1.09,Americas
+259,363,1.2,Americas
+260,33,1.57,Americas
+261,,0,Western Pacific
+262,0,0,Western Pacific
+263,0,0,Western Pacific
+264,0,0,Western Pacific
+265,6,3.03,Western Pacific
+266,0,0,Western Pacific
+267,7,4.9,Africa
+268,2,10,Africa
+269,0,0,Africa
+270,0,0,Africa
+271,16,1.52,Africa
+272,,,Africa
+273,7,1.47,Africa
+274,14,2.27,Africa
+275,7,7.53,Africa
+276,52,5.02,Africa
+277,58,13.65,Africa
+278,113,7.79,Africa
+279,61,11.36,Africa
+280,156,13.58,Africa
+281,117,5.34,Africa
+282,0,0,Africa
+283,3,100,Africa
+284,66,10.44,Africa
+285,249,22.27,Africa
+286,0,0,Africa
+287,495,28.11,Africa
+288,1,100,Africa
+289,5,1.2,Africa
+290,0,0,Africa
+291,9,1.5,Africa
+292,17,1.09,Africa
+293,1,0.47,Africa
+294,1,0.09,Africa
+295,1,0.3,Africa
+296,0,0,Africa
+297,4,1.71,Africa
+298,2,0.55,Africa
+299,7,0.79,Africa
+300,18,1.38,Africa
+301,14,1.71,Africa
+302,18,4.17,Africa
+303,8,1.39,Africa
+304,20,1.99,Africa
+305,16,1.57,Africa
+306,63,1.83,Africa
+307,26,2.44,Africa
+308,95,4.85,Africa
+309,,,Africa
+310,,,Africa
+311,41,7.3,Africa
+312,0,0,Africa
+313,29,6.05,Africa
+314,,,Africa
+315,,,Africa
+316,15,5.79,Africa
+317,10,5.56,Africa
+318,35,6.84,Africa
+319,9,2.17,Africa
+320,11,1.89,Africa
+321,28,1.37,Africa
+322,31,3.39,Africa
+323,248,2.99,Africa
+324,0,0,Africa
+325,0,0,Africa
+326,1,0.75,Africa
+327,3,0.7,Africa
+328,240,1.86,Africa
+329,12,9.38,Africa
+330,17,7.76,Africa
+331,3,15,Africa
+332,8,2.64,Africa
+333,1,0.17,Western Pacific
+334,0,0,Western Pacific
+335,1,1.75,Western Pacific
+336,130,7.6,Western Pacific
+337,66,5.51,Western Pacific
+338,0,0,Western Pacific
+339,20,2.7,Western Pacific
+340,123,2.94,Western Pacific
+341,211,6.84,Western Pacific
+342,104,4.62,Western Pacific
+343,120,9.76,Western Pacific
+344,97,12.6,Western Pacific
+345,0,0,Western Pacific
+346,2,4.26,Western Pacific
+347,0,0,Western Pacific
+348,55,11.6,Western Pacific
+349,0,0,Western Pacific
+350,1,0.69,Western Pacific
+351,14,8.81,Western Pacific
+352,1,12.5,Western Pacific
+353,0,0,Western Pacific
+354,5,8.06,Western Pacific
+355,27,14.44,Western Pacific
+356,13,25,Western Pacific
+357,0,0,Western Pacific
+358,1,16.67,Western Pacific
+359,1,100,Western Pacific
+360,2,100,Western Pacific
+361,8,72.73,Western Pacific
+362,10,41.67,Western Pacific
+363,40,70.18,Western Pacific
+364,1,10,Western Pacific
+365,6,4.8,Africa
+366,184,5.5,Africa
+367,0,0,Africa
+368,5,1.38,Africa
+369,783,3.49,Africa
+370,657,6.1,Africa
+371,89,11.07,Africa
+372,0,0,Africa
+373,1,10,Africa
+374,35,3.8,Africa
+375,110,3.86,Africa
+376,137,1.71,Africa
+377,36,17.39,Africa
+378,8,12.12,Africa
+379,7,2.7,Africa
+380,29,23.58,Africa
+381,35,2.21,Africa
+382,316,6.87,Africa
+383,180,10.53,Africa
+384,485,8.37,Africa
+385,21,3.41,Africa
+386,61,11.58,Africa
+387,19,2.93,Africa
+388,66,5.21,Africa
+389,491,12.2,Africa
+390,0,0,Africa
+391,2,50,Africa
+392,0,0,Africa
+393,6,6.38,Africa
+394,12,7.27,Africa
+395,103,8.89,Africa
+396,60,15.31,Africa
+397,18,32.73,Africa
+398,3,60,Africa
+399,17,7,Africa
+400,23,10.04,Africa
+401,4,25,Africa
+402,0,0,Africa
+403,27,20,Africa
+404,0,0,Africa
+405,16,19.28,Africa
+406,16,7.77,Africa
+407,27,7.46,Africa
+408,336,15.51,Africa
+409,0,0,Americas
+410,0,0,Americas
+411,0,0,Americas
+412,0,0,Americas
+413,,0,Americas
+414,0,0,Americas
+415,0,0,Americas
+416,0,0,Americas
+417,0,0,Americas
+418,0,0,Americas
+419,0,0,Americas
+420,0,0,Americas
+421,,,Americas
+422,0,0,Americas
+423,,,Americas
+424,0,0,Americas
+425,0,0,Americas
+426,0,0,Americas
+427,0,0,Americas
+428,0,0,Americas
+429,1,16.67,Americas
+430,0,0,Americas
+431,0,0,Americas
+432,0,0,Americas
+433,0,0,Africa
+434,15,12.82,Africa
+435,0,0,Africa
+436,0,0,Africa
+437,48,15,Africa
+438,3,13.64,Africa
+439,75,16.93,Africa
+440,458,2.65,Africa
+441,175,2.74,Africa
+442,6,8.96,Africa
+443,0,0,Africa
+444,71,4.26,Africa
+445,14,15.56,Africa
+446,272,4.92,Africa
+447,7,12.73,Africa
+448,226,4.31,Africa
+449,18,8.29,Africa
+450,144,3.52,Africa
+451,443,5.03,Africa
+452,448,5.72,Africa
+453,43,3.93,Africa
+454,1344,9.66,Africa
+455,87,25.74,Africa
+456,3,33.33,Africa
+457,2411,29.3,Africa
+458,0,0,Americas
+459,0,0,Americas
+460,0,0,Americas
+461,2,8.33,Americas
+462,0,0,Americas
+463,0,0,Americas
+464,0,0,Americas
+465,0,0,Americas
+466,1,1.37,Americas
+467,2,4.88,Americas
+468,0,0,Western Pacific
+469,0,0,Western Pacific
+470,0,0,Western Pacific
+471,1,1.89,Western Pacific
+472,0,0,Western Pacific
+473,,0,Western Pacific
+474,0,0,Western Pacific
+475,0,0,Western Pacific
+476,0,0,Western Pacific
+477,0,0,Western Pacific
+478,2,1.24,Western Pacific
+479,4,0.41,Western Pacific
+480,1,0.41,Western Pacific
+481,1,0.45,Western Pacific
+482,0,0,Western Pacific
+483,3,0.16,Western Pacific
+484,0,0,Western Pacific
+485,0,0,Western Pacific
+486,29,2.46,Western Pacific
+487,4,1.27,Western Pacific
+488,88,0.85,Western Pacific
+489,319,0.91,Western Pacific
+490,94,0.81,Western Pacific
+491,1,0.17,Western Pacific
+492,0,0,Western Pacific
+493,5,0.78,Western Pacific
+494,59,1.05,Western Pacific
+495,89,1.22,Western Pacific
+496,0,0,Western Pacific
+497,0,0,Western Pacific
+498,2,2.35,Western Pacific
+499,0,0,Western Pacific
+500,0,0,Western Pacific
+501,24,6.25,Western Pacific
+502,1,100,Western Pacific
+503,0,0,Americas
+504,0,0,Americas
+505,7,1.58,Americas
+506,32,2.12,Americas
+507,70,1.58,Americas
+508,35,1.82,Americas
+509,14,1.41,Americas
+510,0,0,Americas
+511,158,1.04,Americas
+512,207,1.73,Americas
+513,0,0,Africa
+514,29,1.86,Africa
+515,0,0,Africa
+516,0,0,Africa
+517,0,0,Africa
+518,0,0,Africa
+519,46,2.94,Africa
+520,4,1.77,Africa
+521,91,2.76,Africa
+522,42,3.56,Africa
+523,68,0.93,Africa
+524,1,20,Africa
+525,238,8.9,Africa
+526,2,13.3,Americas
+527,221,13.61,Americas
+528,37,3.13,Americas
+529,,,Americas
+530,0,0,Americas
+531,4,2.56,Americas
+532,133,1.71,Americas
+533,10,5.71,Americas
+534,0,0,Americas
+535,2,22.22,Americas
+536,20,0.42,Americas
+537,22,0.68,Americas
+538,60,21.82,Americas
+539,0,0,Americas
+540,14,27.45,Americas
+541,0,0,Americas
+542,1,5.26,Americas
+543,0,0,Americas
+544,0,0,Americas
+545,0,0,Americas
+546,0,0,Americas
+547,6,3,Africa
+548,12,5.1,Africa
+549,2,3.57,Africa
+550,19,4.48,Africa
+551,24,1.9,Africa
+552,0,0,Africa
+553,2,40,Africa
+554,1,14.29,Africa
+555,1,12.5,Africa
+556,15,3.62,Africa
+557,6,0,Africa
+558,9,8.57,Africa
+559,50,4.84,Africa
+560,143,3.41,Africa
+561,305,5.16,Africa
+562,22,1.64,Africa
+563,184,3.69,Africa
+564,55,4.96,Africa
+565,42,5.8,Africa
+566,7,18.92,Africa
+567,116,19.21,Africa
+568,0,0,Africa
+569,0,0,Africa
+570,9,1.35,Africa
+571,39,4.49,Africa
+572,0,0,Americas
+573,0,0,Americas
+574,0,0,Americas
+575,3,0.72,Americas
+576,,,Europe
+577,1,25,Europe
+578,,,Western Pacific
+579,0,0,Western Pacific
+580,759,2.7,Africa
+581,276,1.4,Africa
+582,372,1.7,Africa
+583,491,1.82,Africa
+584,819,2.43,Africa
+585,584,2.69,Africa
+586,182,1.31,Africa
+587,237,1.03,Africa
+588,548,1.82,Africa
+589,600,2.12,Africa
+590,426,2.06,Africa
+591,244,0,Africa
+592,228,2.97,Africa
+593,989,3.63,Africa
+594,1979,6.25,Africa
+595,390,6.81,Africa
+596,941,6.28,Africa
+597,783,6.16,Africa
+598,2926,8.38,Africa
+599,326,13.47,Africa
+600,638,8.09,Africa
+601,22,3.98,Africa
+602,4181,7.2,Africa
+603,175,17.75,Africa
+604,59,3.03,Africa
+605,294,7.23,Africa
+606,61,13.03,Africa
+607,6,6.06,Africa
+608,32,10.85,Africa
+609,218,18.96,Africa
+610,125,11.8,Africa
+611,30,4.05,Africa
+612,3,1.85,Africa
+613,245,8.23,Africa
+614,693,6.71,Africa
+615,800,33.63,Africa
+616,81,7.71,Africa
+617,511,9.27,Africa
+618,183,5.26,Africa
+619,0,0,Europe
+620,0,0,Europe
+621,0,0,Europe
+622,0,0,Europe
+623,0,0,Europe
+624,0,0,Europe
+625,0,0,Europe
+626,1,0.79,Eastern Mediterranean
+627,19,0.93,Eastern Mediterranean
+628,27,2.48,Eastern Mediterranean
+629,32,1.75,Eastern Mediterranean
+630,3,1.83,Eastern Mediterranean
+631,50,2.06,Eastern Mediterranean
+632,15,1.34,Eastern Mediterranean
+633,99,0.98,Eastern Mediterranean
+634,7,6.09,Eastern Mediterranean
+635,2,66.67,Eastern Mediterranean
+636,0,0,Eastern Mediterranean
+637,0,0,Eastern Mediterranean
+638,3,37.5,Eastern Mediterranean
+639,81,18.41,Eastern Mediterranean
+640,3,50,Eastern Mediterranean
+641,27,2.3,Americas
+642,15,2.7,Americas
+643,11,1.8,Americas
+644,42,2.15,Americas
+645,68,0.86,Americas
+646,336,1.61,Americas
+647,0,0,Americas
+648,0,0,Americas
+649,,,Americas
+650,0,0,Americas
+651,1,3.7,Americas
+652,0,0,Americas
+653,37,0.99,Americas
+654,3,4.62,Americas
+655,12,1.13,Americas
+656,23,1.06,Americas
+657,16,0.9,Americas
+658,72,1.05,Americas
+659,208,0.65,Americas
+660,697,1.5,Americas
+661,2,0.32,Americas
+662,0,0,Americas
+663,0,0,Americas
+664,2,1.1,Americas
+665,2,0.07,Americas
+666,38,0.32,Americas
+667,14,0.21,Americas
+668,45,0.52,Americas
+669,34,3.59,Americas
+670,0,0,Africa
+671,33,0.52,Africa
+672,1,1.69,Africa
+673,1,0.93,Africa
+674,31,7.67,Africa
+675,0,0,Africa
+676,9,7.56,Africa
+677,0,0,Africa
+678,0,0,Africa
+679,0,0,Europe
+680,0,0,Africa
+681,0,0,Africa
+682,0,0,Africa
+683,0,0,Africa
+684,0,0,Africa
+685,16,1.49,Africa
+686,13,40.63,Africa
+687,2,1.49,Africa
+688,107,1.91,Africa
+689,16,11.35,Africa
+690,0,0,Africa
+691,0,0,Africa
+692,0,0,Africa
+693,30,1.32,Africa
+694,13,2.42,Africa
+695,17,7.14,Africa
+696,,,Africa
+697,21,1.25,Africa
+698,434,1.38,Africa
+699,23,0.6,Africa
+700,272,1.13,Africa
+701,575,1.06,Africa
+702,0,0,Africa
+703,0,0,Africa
+704,0,0,Africa
+705,124,5.67,Africa
+706,72,8.47,Africa
+707,0,0,Europe
+708,0,0,Europe
+709,,,Europe
+710,0,0,Europe
+711,,,Europe
+712,,,Europe
+713,0,0,Europe
+714,0,0,Europe
+715,0,0,Europe
+716,0,0,Europe
+717,0,0,Europe
+718,0,0,Europe
+719,0,0,Europe
+720,,,Europe
+721,,,Europe
+722,0,0,Europe
+723,0,0,Europe
+724,0,0,Europe
+725,0,0,Europe
+726,0,0,Europe
+727,0,0,Europe
+728,0,0,Europe
+729,0,0,Europe
+730,1,16.67,Europe
+731,,,Europe
+732,0,0,Europe
+733,0,0,Europe
+734,0,0,Europe
+735,0,0,Europe
+736,0,0,Europe
+737,,,Europe
+738,0,0,Europe
+739,0,0,Europe
+740,0,0,Europe
+741,0,0,Europe
+742,0,0,Europe
+743,0,0,Europe
+744,0,0,Europe
+745,0,0,Europe
+746,0,0,Africa
+747,0,0,Africa
+748,0,0,Africa
+749,0,0,Africa
+750,,,Africa
+751,0,0,Africa
+752,2,40,Africa
+753,0,0,Africa
+754,1,8.33,Africa
+755,0,0,Africa
+756,13,6.07,Africa
+757,0,0,Africa
+758,0,0,Africa
+759,0,0,Africa
+760,0,0,Africa
+761,0,0,Europe
+762,Unknown,Unknown,Europe
+763,0,0,Europe
+764,0,0,Europe
+765,1,25,Europe
+766,0,0,Europe
+767,0,0,Europe
+768,0,0,Europe
+769,,,Europe
+770,,,Europe
+771,,,Europe
+772,,,Europe
+773,0,0,Europe
+774,,,Europe
+775,0,0,Europe
+776,0,0,Europe
+777,0,0,Europe
+778,0,0,Europe
+779,0,0,Europe
+780,0,0,Europe
+781,0,0,Europe
+782,0,0,Europe
+783,0,0,Europe
+784,0,0,Europe
+785,0,0,Europe
+786,0,0,Europe
+787,0,0,Europe
+788,0,0,Europe
+789,,,Europe
+790,0,0,Europe
+791,0,0,Europe
+792,0,0,Europe
+793,0,0,Europe
+794,0,0,Africa
+795,8,1.2,Africa
+796,243,0.8,Africa
+797,0,0,Africa
+798,100,1.05,Africa
+799,105,0.99,Africa
+800,3,0.68,Africa
+801,9,0.7,Africa
+802,25,2.04,Africa
+803,18,10.06,Africa
+804,107,3.19,Africa
+805,51,1.61,Africa
+806,6,1.47,Africa
+807,4,1.96,Africa
+808,65,1.8,Africa
+809,160,2.92,Africa
+810,74,2.22,Africa
+811,260,2.76,Africa
+812,108,3.15,Africa
+813,12,3.17,Africa
+814,70,4.2,Africa
+815,93,1.98,Africa
+816,54,2.38,Africa
+817,38,2.62,Africa
+818,23,10.09,Africa
+819,409,3.11,Africa
+820,60,2.04,Africa
+821,0,0,Africa
+822,92,9.06,Africa
+823,819,5.78,Africa
+824,1225,11.09,Africa
+825,62,6.57,Africa
+826,21,8.08,Africa
+827,113,6.34,Africa
+828,120,6.48,Africa
+829,353,5.38,Africa
+830,0,0,Africa
+831,10,5.35,Africa
+832,37,7.66,Africa
+833,39,5.76,Africa
+834,32,5.12,Africa
+835,641,4.91,Africa
+836,180,6.59,Africa
+837,0,0,Europe
+838,0,0,Europe
+839,,,Americas
+840,0,0,Americas
+841,0,0,Americas
+842,6,0.98,Americas
+843,0,0,Americas
+844,57,0.95,Americas
+845,0,0,Americas
+846,14,0.89,Americas
+847,95,1.19,Americas
+848,36,0.68,Americas
+849,306,1,Americas
+850,207,1.34,Americas
+851,50,1.36,Americas
+852,0,0,Africa
+853,32,10.03,Africa
+854,133,1.81,Africa
+855,0,0,Africa
+856,0,0,Africa
+857,32,6.24,Africa
+858,311,3.64,Africa
+859,219,6.76,Africa
+860,107,2.8,Africa
+861,117,7.72,Africa
+862,1,16.67,Africa
+863,11,18.03,Africa
+864,22,5.61,Africa
+865,32,6.17,Africa
+866,28,4.67,Africa
+867,53,6.02,Africa
+868,17,5.92,Africa
+869,565,8.68,Africa
+870,671,2.14,Africa
+871,58,20.28,Africa
+872,60,3,Africa
+873,2,18.2,Africa
+874,28,2.89,Africa
+875,22,0.72,Africa
+876,0,0,Africa
+877,225,1.57,Africa
+878,8,5.23,Africa
+879,0,0,Africa
+880,399,1.59,Africa
+881,3,1.94,Africa
+882,2,0.69,Africa
+883,6,0.71,Africa
+884,2,1.59,Africa
+885,905,4.4,Africa
+886,84,1,Africa
+887,0,0,Africa
+888,285,1.86,Africa
+889,68,1.13,Africa
+890,50,25,Africa
+891,2,3.03,Americas
+892,8,1.39,Americas
+893,447,1.1,Americas
+894,322,0.9,Americas
+895,296,1.1,Americas
+896,593,1.01,Americas
+897,894,0.8,Americas
+898,2869,0.84,Americas
+899,3990,2.22,Americas
+900,0,0,Americas
+901,0,0,Americas
+902,3,5.36,Americas
+903,13,4.25,Americas
+904,1,1,Americas
+905,14,1.98,Americas
+906,77,1.63,Americas
+907,102,2.02,Americas
+908,102,2.54,Americas
+909,17,4.18,Americas
+910,0,0,Americas
+911,0,0,Europe
+912,3,0.4,South-East Asia
+913,4,0.4,South-East Asia
+914,21,0.5,South-East Asia
+915,54,0.9,South-East Asia
+916,9,0.17,South-East Asia
+917,1,0.04,South-East Asia
+918,3,0.11,South-East Asia
+919,3,0.15,South-East Asia
+920,6,0.19,South-East Asia
+921,7,0.15,South-East Asia
+922,2,0.07,South-East Asia
+923,10,0.29,South-East Asia
+924,6,0.15,South-East Asia
+925,20,0.49,South-East Asia
+926,6,0.16,South-East Asia
+927,11,0.15,South-East Asia
+928,16,0.58,South-East Asia
+929,34,0.77,South-East Asia
+930,5,0.15,South-East Asia
+931,32,0.64,South-East Asia
+932,51,0.42,South-East Asia
+933,55,0.8,South-East Asia
+934,149,2.13,South-East Asia
+935,83,2.32,South-East Asia
+936,93,1.65,South-East Asia
+937,380,2.21,South-East Asia
+938,240,2.01,South-East Asia
+939,70,1.66,South-East Asia
+940,155,2.67,South-East Asia
+941,27,1.07,South-East Asia
+942,309,3.62,South-East Asia
+943,213,4.57,South-East Asia
+944,150,3.2,South-East Asia
+945,307,3.68,South-East Asia
+946,113,2.23,South-East Asia
+947,246,2.32,South-East Asia
+948,289,3.45,South-East Asia
+949,662,4.43,South-East Asia
+950,2330,10.57,South-East Asia
+951,2289,7.41,South-East Asia
+952,5406,12.99,South-East Asia
+953,2845,13.92,South-East Asia
+954,10478,14.68,South-East Asia
+955,3420,22.7,South-East Asia
+956,,,South-East Asia
+957,,,South-East Asia
+958,,,South-East Asia
+959,2799,21.45,South-East Asia
+960,12664,29.67,South-East Asia
+961,17035,32.13,South-East Asia
+962,16357,36.48,South-East Asia
+963,27141,53.13,South-East Asia
+964,26946,56.57,South-East Asia
+965,,,South-East Asia
+966,7696,51.82,South-East Asia
+967,49818,74.52,South-East Asia
+968,49715,90.46,South-East Asia
+969,17206,43.2,South-East Asia
+970,7662,32.56,South-East Asia
+971,19368,87.46,South-East Asia
+972,124227,58.26,South-East Asia
+973,58252,57.4,South-East Asia
+974,41543,47.87,South-East Asia
+975,396,63.36,South-East Asia
+976,27,2.68,South-East Asia
+977,19,1.42,South-East Asia
+978,6,1.07,South-East Asia
+979,0,0,South-East Asia
+980,0,0,South-East Asia
+981,0,0,South-East Asia
+982,25,0.7,South-East Asia
+983,0,0,South-East Asia
+984,55,0.89,South-East Asia
+985,0,0,South-East Asia
+986,0,0,South-East Asia
+987,0,0,South-East Asia
+988,18,2.73,South-East Asia
+989,391,3.28,South-East Asia
+990,85,1.8,South-East Asia
+991,59,0.74,South-East Asia
+992,346,2.5,South-East Asia
+993,535,5.15,South-East Asia
+994,463,2.52,South-East Asia
+995,150,2.71,South-East Asia
+996,769,4.09,South-East Asia
+997,507,4.75,South-East Asia
+998,780,4.56,South-East Asia
+999,2665,6.46,South-East Asia
+1000,3715,7.68,South-East Asia
+1001,3920,9.45,South-East Asia
+1002,3058,5.88,South-East Asia
+1003,6956,15.67,South-East Asia
+1004,3607,15.31,South-East Asia
+1005,1257,20.96,South-East Asia
+1006,262,41.79,South-East Asia
+1007,22,16.3,South-East Asia
+1008,139,19.86,South-East Asia
+1009,36,17.65,South-East Asia
+1010,69,21.17,South-East Asia
+1011,83,15.51,South-East Asia
+1012,80,18.69,South-East Asia
+1013,474,27.21,South-East Asia
+1014,22,53.66,South-East Asia
+1015,1,1.2,Eastern Mediterranean
+1016,7,2.73,Eastern Mediterranean
+1017,0,0,Eastern Mediterranean
+1018,12,1.01,Eastern Mediterranean
+1019,4,5.56,Eastern Mediterranean
+1020,0,0,Eastern Mediterranean
+1021,11,0.97,Eastern Mediterranean
+1022,1,1.06,Eastern Mediterranean
+1023,0,0,Eastern Mediterranean
+1024,,,Eastern Mediterranean
+1025,,,Eastern Mediterranean
+1026,3,0.87,Eastern Mediterranean
+1027,21,1.53,Eastern Mediterranean
+1028,1,0.37,Eastern Mediterranean
+1029,9,0.81,Eastern Mediterranean
+1030,59,2.71,Eastern Mediterranean
+1031,0,0,Eastern Mediterranean
+1032,5,0.37,Eastern Mediterranean
+1033,4,4.12,Eastern Mediterranean
+1034,32,1.69,Eastern Mediterranean
+1035,3,1.69,Eastern Mediterranean
+1036,85,1.63,Eastern Mediterranean
+1037,15,3.09,Eastern Mediterranean
+1038,4,1.36,Eastern Mediterranean
+1039,1,5,Eastern Mediterranean
+1040,9,0.75,Eastern Mediterranean
+1041,5,0.94,Eastern Mediterranean
+1042,0,0,Eastern Mediterranean
+1043,0,0,Eastern Mediterranean
+1044,108,1.79,Eastern Mediterranean
+1045,32,2,Eastern Mediterranean
+1046,56,3.02,Eastern Mediterranean
+1047,,,Eastern Mediterranean
+1048,,,Eastern Mediterranean
+1049,,,Eastern Mediterranean
+1050,,,Eastern Mediterranean
+1051,,,Eastern Mediterranean
+1052,,,Eastern Mediterranean
+1053,,,Eastern Mediterranean
+1054,,,Eastern Mediterranean
+1055,,,Eastern Mediterranean
+1056,,,Eastern Mediterranean
+1057,,,Eastern Mediterranean
+1058,,,Eastern Mediterranean
+1059,,,Eastern Mediterranean
+1060,0 0,0.0 0.0,Eastern Mediterranean
+1061,2,0.04,Eastern Mediterranean
+1062,0,0,Eastern Mediterranean
+1063,4,0,Eastern Mediterranean
+1064,0,0,Eastern Mediterranean
+1065,0,0,Eastern Mediterranean
+1066,11,1.19,Eastern Mediterranean
+1067,24,0.51,Eastern Mediterranean
+1068,0,0,Eastern Mediterranean
+1069,0,0,Eastern Mediterranean
+1070,,,Eastern Mediterranean
+1071,,,Eastern Mediterranean
+1072,4,0.75,Eastern Mediterranean
+1073,30,1.51,Eastern Mediterranean
+1074,1,1.89,Eastern Mediterranean
+1075,0,0,Eastern Mediterranean
+1076,3,0.37,Eastern Mediterranean
+1077,0,0,Eastern Mediterranean
+1078,0,0,Eastern Mediterranean
+1079,0,0,Eastern Mediterranean
+1080,6,0.68,Eastern Mediterranean
+1081,0,0,Eastern Mediterranean
+1082,1,0.75,Eastern Mediterranean
+1083,20,8.81,Eastern Mediterranean
+1084,,,Europe
+1085,0,0,Europe
+1086,0,0,Europe
+1087,0,0,Europe
+1088,0,0,Europe
+1089,0,0,Europe
+1090,0,0,Europe
+1091,10,5.41,Europe
+1092,0,0,Europe
+1093,0,0,Europe
+1094,0,0,Europe
+1095,9,450,Europe
+1096,0,0,Europe
+1097,9,75,Europe
+1098,0,0,Europe
+1099,0,0,Europe
+1100,0,0,Europe
+1101,23,8.27,Europe
+1102,0,0,Western Pacific
+1103,,,Western Pacific
+1104,0,0,Western Pacific
+1105,0,0,Western Pacific
+1106,0,0,Western Pacific
+1107,,0,Western Pacific
+1108,0,0,Western Pacific
+1109,0,0,Western Pacific
+1110,0,0,Western Pacific
+1111,0,0,Western Pacific
+1112,0,0,Western Pacific
+1113,0,0,Western Pacific
+1114,,,Western Pacific
+1115,0,0,Western Pacific
+1116,0,0,Western Pacific
+1117,0,0,Western Pacific
+1118,0,0,Western Pacific
+1119,0,0,Western Pacific
+1120,1,0.31,Western Pacific
+1121,0,0,Western Pacific
+1122,0,0,Western Pacific
+1123,0,0,Western Pacific
+1124,1,1.11,Western Pacific
+1125,0,0,Western Pacific
+1126,0,0,Western Pacific
+1127,0,0,Western Pacific
+1128,0,0,Western Pacific
+1129,0,0,Western Pacific
+1130,0,0,Western Pacific
+1131,0,0,Western Pacific
+1132,0,0,Western Pacific
+1133,0,0,Western Pacific
+1134,0,0,Western Pacific
+1135,0,0,Western Pacific
+1136,0,0,Western Pacific
+1137,1,2.94,Western Pacific
+1138,1,1.92,Western Pacific
+1139,0,0,Western Pacific
+1140,0,0,Western Pacific
+1141,,,Western Pacific
+1142,,,Western Pacific
+1143,1,50,Western Pacific
+1144,0,0,Western Pacific
+1145,0,0,Eastern Mediterranean
+1146,4,0.46,Eastern Mediterranean
+1147,0,0,Eastern Mediterranean
+1148,1,0.23,Eastern Mediterranean
+1149,0,0,Eastern Mediterranean
+1150,0,0,Eastern Mediterranean
+1151,0,0,Europe
+1152,,,Europe
+1153,0,0,Europe
+1154,0,0,Europe
+1155,0,0,Europe
+1156,0,0,Europe
+1157,80,1.4,Africa
+1158,67,0.5,Africa
+1159,9,25.7,Africa
+1160,2,2.7,Africa
+1161,63,1.98,Africa
+1162,264,2.31,Africa
+1163,113,3.66,Africa
+1164,67,5.56,Africa
+1165,11,1.26,Africa
+1166,21,2.57,Africa
+1167,15,1.72,Africa
+1168,10,3.44,Africa
+1169,55,5.49,Africa
+1170,78,6.74,Africa
+1171,350,3.17,Africa
+1172,1237,5.51,Africa
+1173,555,3.23,Africa
+1174,14,2.9,Africa
+1175,39,2.52,Africa
+1176,28,3.18,Africa
+1177,100,2.95,Africa
+1178,32,3.49,Africa
+1179,12,4.71,Africa
+1180,45,5.36,Africa
+1181,102,7.54,Africa
+1182,0,0,Africa
+1183,53,5.05,Africa
+1184,91,2.6,Africa
+1185,108,4.46,Africa
+1186,42,1.5,Africa
+1187,2,0.19,Africa
+1188,17,2.53,Africa
+1189,0,0,Africa
+1190,59,4.34,Africa
+1191,74,6.77,Africa
+1192,20,4.98,Africa
+1193,0,0,Africa
+1194,38,15.9,Africa
+1195,0,0,Western Pacific
+1196,21,1.61,Western Pacific
+1197,0,0,Eastern Mediterranean
+1198,,,Eastern Mediterranean
+1199,0,0,Eastern Mediterranean
+1200,0,0,Eastern Mediterranean
+1201,0,0,Eastern Mediterranean
+1202,0,0,Eastern Mediterranean
+1203,0,0,Eastern Mediterranean
+1204,0,0,Eastern Mediterranean
+1205,0,0,Eastern Mediterranean
+1206,0,0,Eastern Mediterranean
+1207,0,0,Eastern Mediterranean
+1208,1,33.33,Eastern Mediterranean
+1209,0,0,Eastern Mediterranean
+1210,0,0,Europe
+1211,4,1.69,Western Pacific
+1212,0,0,Western Pacific
+1213,3,1.78,Western Pacific
+1214,33,4.58,Western Pacific
+1215,174,12.75,Western Pacific
+1216,606,6.27,Western Pacific
+1217,255,4.62,Western Pacific
+1218,21,4.69,Western Pacific
+1219,18,58.06,Western Pacific
+1220,0,0,Eastern Mediterranean
+1221,,,Eastern Mediterranean
+1222,23,6.69,Eastern Mediterranean
+1223,0,0,Eastern Mediterranean
+1224,1,1.85,Eastern Mediterranean
+1225,0,0,Africa
+1226,0,0,Africa
+1227,0,0,Africa
+1228,0,0,Africa
+1229,0,0,Africa
+1230,,0,Africa
+1231,0,0,Africa
+1232,2,0.19,Africa
+1233,3,0.24,Africa
+1234,7,0.23,Africa
+1235,17,0.34,Africa
+1236,18,0.47,Africa
+1237,4,0.14,Africa
+1238,38,0.11,Africa
+1239,0,0,Africa
+1240,0,0,Africa
+1241,10,2.74,Africa
+1242,0,0,Africa
+1243,17,0.8,Africa
+1244,0,0,Africa
+1245,169,1.89,Africa
+1246,126,3.68,Africa
+1247,17,2.23,Africa
+1248,40,30.3,Africa
+1249,0,0,Africa
+1250,1,1.47,Africa
+1251,1,3.03,Africa
+1252,0,0,Africa
+1253,3,0.85,Africa
+1254,8,1.63,Africa
+1255,12,6.56,Africa
+1256,8,1.19,Africa
+1257,33,2.09,Africa
+1258,55,2.04,Africa
+1259,6,1.37,Africa
+1260,9,2.13,Africa
+1261,18,3.52,Africa
+1262,10,1.55,Africa
+1263,16,2.27,Africa
+1264,12,2.34,Africa
+1265,27,2.02,Africa
+1266,28,2.96,Africa
+1267,106,17.49,Africa
+1268,27,16.07,Africa
+1269,2,9.09,Eastern Mediterranean
+1270,28,2.43,Eastern Mediterranean
+1271,0,0,Africa
+1272,0,0,Africa
+1273,0,0,Africa
+1274,0,0,Africa
+1275,413,5.72,Africa
+1276,1672,5.71,Africa
+1277,549,5.5,Africa
+1278,0,0,Africa
+1279,0,0,Africa
+1280,46,2.6,Africa
+1281,11,1.6,Africa
+1282,2,1.07,Africa
+1283,4,3.33,Africa
+1284,17,1.47,Africa
+1285,125,2.17,Africa
+1286,26,3.13,Africa
+1287,5,1.05,Africa
+1288,55,1.32,Africa
+1289,11,1,Africa
+1290,4,0.59,Africa
+1291,34,1.24,Africa
+1292,911,2.79,Africa
+1293,42,1.75,Africa
+1294,56,2.34,Africa
+1295,648,2.44,Africa
+1296,74,4.24,Africa
+1297,15,11.54,Africa
+1298,0,0,Africa
+1299,0,0,Africa
+1300,11,10.28,Africa
+1301,524,2.08,Africa
+1302,8,2.68,Africa
+1303,245,3.03,Africa
+1304,481,3.57,Africa
+1305,16,0.19,Africa
+1306,0,0,Africa
+1307,49,10.06,Africa
+1308,0,0,Africa
+1309,24,9.13,Africa
+1310,0,0,Africa
+1311,0,0,Africa
+1312,20,5.39,Africa
+1313,2,0.8,Western Pacific
+1314,1,0.7,Western Pacific
+1315,1,0.58,Western Pacific
+1316,1,0.4,Western Pacific
+1317,10,1.71,Western Pacific
+1318,6,1.35,Western Pacific
+1319,1,0.53,Western Pacific
+1320,0,0,Western Pacific
+1321,2,0.84,Western Pacific
+1322,0,0,Western Pacific
+1323,11,1.97,Western Pacific
+1324,1,0.81,Western Pacific
+1325,0,0,Western Pacific
+1326,19,1.46,Western Pacific
+1327,4,1.03,Western Pacific
+1328,0,0,Western Pacific
+1329,27,1.22,Western Pacific
+1330,0,0,Western Pacific
+1331,13,1.31,Western Pacific
+1332,8,1.69,Western Pacific
+1333,6,1.19,Western Pacific
+1334,38,1.83,Western Pacific
+1335,14,3.56,Western Pacific
+1336,32,2.42,Western Pacific
+1337,18,1.54,Western Pacific
+1338,2,3.64,Western Pacific
+1339,2,3.85,Western Pacific
+1340,1,1.49,Western Pacific
+1341,38,1.73,Western Pacific
+1342,17,3.29,Western Pacific
+1343,14,2.99,Western Pacific
+1344,7,7.22,Western Pacific
+1345,10,1.99,Western Pacific
+1346,64,3.91,Western Pacific
+1347,12,2.7,Western Pacific
+1348,4,1.63,Western Pacific
+1349,8,7.27,Western Pacific
+1350,0,0,Western Pacific
+1351,17,4.61,Western Pacific
+1352,11,1.27,Western Pacific
+1353,1,1.89,Western Pacific
+1354,3,2.83,Western Pacific
+1355,,,Western Pacific
+1356,3,20,Western Pacific
+1357,0,0,Western Pacific
+1358,1,6.25,Western Pacific
+1359,143,27.93,Western Pacific
+1360,24,6.88,Western Pacific
+1361,0,0,Western Pacific
+1362,220,1.94,South-East Asia
+1363,2,8.7,Africa
+1364,19,8.68,Africa
+1365,95,4.28,Africa
+1366,5,3.27,Africa
+1367,0,0,Africa
+1368,76,6.45,Africa
+1369,205,7.22,Africa
+1370,119,8.18,Africa
+1371,2,11.11,Africa
+1372,9,13.43,Africa
+1373,51,2.71,Africa
+1374,3,50,Africa
+1375,3,50,Africa
+1376,761,13.3,Africa
+1377,231,10.54,Africa
+1378,84,23.86,Africa
+1379,151,7.88,Africa
+1380,838,22.29,Africa
+1381,406,22.62,Africa
+1382,21,16.15,Africa
+1383,32,14.61,Africa
+1384,0,0,Africa
+1385,1321,27.57,Africa
+1386,201,7.54,Africa
+1387,6,2,Western Pacific
+1388,3,6.52,Africa
+1389,0,0,Africa
+1390,0,0,Africa
+1391,70,1.69,Africa
+1392,8,23.53,Africa
+1393,0,0,Africa
+1394,7,1.52,Africa
+1395,148,3.26,Africa
+1396,27,3.86,Africa
+1397,38,6.61,Africa
+1398,101,6.4,Africa
+1399,113,3.03,Africa
+1400,20,7.72,Africa
+1401,15,9.04,Africa
+1402,22,14.67,Africa
+1403,24,16.22,Africa
+1404,53,4.65,Africa
+1405,0,0,Africa
+1406,0,0,Africa
+1407,0,0,Americas
+1408,0,0,Americas
+1409,1,0.53,Americas
+1410,0,0,Americas
+1411,0,0,Americas
+1412,0,0,Americas
+1413,0,0,Americas
+1414,0,0,Americas
+1415,0,0,Americas
+1416,0,0,Americas
+1417,1,0.04,Americas
+1418,5,0.46,Americas
+1419,137,0.83,Americas
+1420,56,1.38,Americas
+1421,193,1.8,Americas
+1422,99,1.21,Americas
+1423,34,1.26,Americas
+1424,0,0,Western Pacific
+1425,0,0,Western Pacific
+1426,20,0.58,Western Pacific
+1427,0,0,Western Pacific
+1428,1,2.94,Western Pacific
+1429,0,0,Western Pacific
+1430,12,6.78,Western Pacific
+1431,0,0,Eastern Mediterranean
+1432,137,3,Eastern Mediterranean
+1433,0,0,Eastern Mediterranean
+1434,0,0,Eastern Mediterranean
+1435,0,0,Eastern Mediterranean
+1436,2,0.2,Africa
+1437,64,0.7,Africa
+1438,1,0.2,Africa
+1439,19,1.02,Africa
+1440,7,1.08,Africa
+1441,5,0.39,Africa
+1442,117,1.57,Africa
+1443,155,0.79,Africa
+1444,102,1.12,Africa
+1445,22,0.84,Africa
+1446,29,0.46,Africa
+1447,24,1.08,Africa
+1448,110,0.55,Africa
+1449,102,0.74,Africa
+1450,342,1.4,Africa
+1451,102,1.16,Africa
+1452,238,1.35,Africa
+1453,1194,2.69,Africa
+1454,1353,3.17,Africa
+1455,259,2.96,Africa
+1456,0,0,Africa
+1457,27,3.9,Africa
+1458,507,2.56,Africa
+1459,727,2.36,Africa
+1460,328,4.18,Africa
+1461,194,4.67,Africa
+1462,12,3.23,Africa
+1463,0,0,Africa
+1464,0,0,Africa
+1465,11,2.11,Africa
+1466,447,4.16,Africa
+1467,199,8.65,Africa
+1468,132,7.53,Africa
+1469,85,7.01,Africa
+1470,547,11.99,Africa
+1471,3,16.67,Africa
+1472,2,66.67,Africa
+1473,3,27.27,Africa
+1474,138,13.56,Africa
+1475,87,19.21,Africa
+1476,11,1.4,South-East Asia
+1477,12,11.7,South-East Asia
+1478,,,South-East Asia
+1479,0,0,South-East Asia
+1480,0,0,South-East Asia
+1481,,0,South-East Asia
+1482,1,2.22,South-East Asia
+1483,6,0.46,South-East Asia
+1484,4,0.95,South-East Asia
+1485,52,2.96,South-East Asia
+1486,50,6.05,South-East Asia
+1487,39,4.22,South-East Asia
+1488,11,1.84,South-East Asia
+1489,29,2.93,South-East Asia
+1490,3,10.71,South-East Asia
+1491,50,4.91,South-East Asia
+1492,75,8.58,South-East Asia
+1493,372,10.48,South-East Asia
+1494,173,11.39,South-East Asia
+1495,172,5.85,South-East Asia
+1496,203,8.59,South-East Asia
+1497,24,6.22,South-East Asia
+1498,7,3.89,South-East Asia
+1499,42,11.11,South-East Asia
+1500,76,8.34,South-East Asia
+1501,34,16.59,South-East Asia
+1502,0,0,South-East Asia
+1503,0,0,South-East Asia
+1504,17,6.46,South-East Asia
+1505,8,3.86,South-East Asia
+1506,171,18.55,South-East Asia
+1507,783,25.94,South-East Asia
+1508,0,0,South-East Asia
+1509,0,0,South-East Asia
+1510,200,77.22,South-East Asia
+1511,2,66.67,South-East Asia
+1512,3,42.86,South-East Asia
+1513,3,30,South-East Asia
+1514,6,46.15,South-East Asia
+1515,12,28.57,South-East Asia
+1516,19,54.29,South-East Asia
+1517,9,40.91,South-East Asia
+1518,245,70.61,South-East Asia
+1519,4685,69.38,South-East Asia
+1520,2785,66.12,South-East Asia
+1521,13,2.7,Africa
+1522,0,0,Africa
+1523,3,1.89,Africa
+1524,38,1.09,Africa
+1525,0,0,Africa
+1526,5,2.7,Africa
+1527,0,0,Africa
+1528,0,0,Western Pacific
+1529,0,0,Western Pacific
+1530,0,0,South-East Asia
+1531,0,0,South-East Asia
+1532,2,0.2,South-East Asia
+1533,0,0,South-East Asia
+1534,,0,South-East Asia
+1535,9,0.5,South-East Asia
+1536,0,0,South-East Asia
+1537,0,0,South-East Asia
+1538,17,0.97,South-East Asia
+1539,0,0,South-East Asia
+1540,1,0.37,South-East Asia
+1541,0,0,South-East Asia
+1542,0,0,South-East Asia
+1543,0,0,South-East Asia
+1544,15,1.88,South-East Asia
+1545,873,2.85,South-East Asia
+1546,495,2.07,South-East Asia
+1547,2,1.42,South-East Asia
+1548,0,0,South-East Asia
+1549,0,0,South-East Asia
+1550,0,0,South-East Asia
+1551,10,0.6,South-East Asia
+1552,4,0.93,South-East Asia
+1553,1,0.54,South-East Asia
+1554,0,0,South-East Asia
+1555,0,0,South-East Asia
+1556,0,0,South-East Asia
+1557,0,0,South-East Asia
+1558,0,0,South-East Asia
+1559,1,0.26,South-East Asia
+1560,6,2.65,South-East Asia
+1561,17,50,South-East Asia
+1562,0,0,South-East Asia
+1563,97,13.34,South-East Asia
+1564,384,14.19,South-East Asia
+1565,0,0,Europe
+1566,0,0,Europe
+1567,0,0,Europe
+1568,0,0,Europe
+1569,0,0,Europe
+1570,,,Europe
+1571,,,Europe
+1572,,,Europe
+1573,0,0,Europe
+1574,0,0,Europe
+1575,0,0,Europe
+1576,0,0,Europe
+1577,0,0,Europe
+1578,0,0,Europe
+1579,0,0,Europe
+1580,0,0,Europe
+1581,0,0,Europe
+1582,0,0,Europe
+1583,,,Europe
+1584,0,0,Europe
+1585,0,0,Europe
+1586,0,0,Europe
+1587,1,100,Europe
+1588,0,0,Western Pacific
+1589,,,Western Pacific
+1590,0,0,Western Pacific
+1591,0,0,Western Pacific
+1592,0,0,Western Pacific
+1593,0,0,Western Pacific
+1594,0,0,Western Pacific
+1595,0,0,Western Pacific
+1596,1,33.33,Western Pacific
+1597,0,0,Americas
+1598,7,1.27,Americas
+1599,29,2.02,Americas
+1600,36,2.81,Americas
+1601,107,3.8,Americas
+1602,164,1.86,Americas
+1603,134,1.71,Americas
+1604,220,3.32,Americas
+1605,46,1.5,Americas
+1606,0,0,Americas
+1607,6,15.8,Africa
+1608,4,7.8,Africa
+1609,80,3.9,Africa
+1610,13,2.22,Africa
+1611,110,2.08,Africa
+1612,60,2.58,Africa
+1613,66,5.72,Africa
+1614,70,7.2,Africa
+1615,2,8.33,Africa
+1616,81,6.57,Africa
+1617,55,9.95,Africa
+1618,57,2.62,Africa
+1619,11,3.77,Africa
+1620,12,5.08,Africa
+1621,1,1.23,Africa
+1622,38,16.89,Africa
+1623,85,7.17,Africa
+1624,13,5.02,Africa
+1625,206,5.21,Africa
+1626,15,5.68,Africa
+1627,83,11.34,Africa
+1628,367,11.33,Africa
+1629,22,13.25,Africa
+1630,308,8.13,Africa
+1631,0,0,Africa
+1632,75,26.22,Africa
+1633,16,13.22,Africa
+1634,12,23.53,Africa
+1635,2344,25.3,Africa
+1636,8,50,Africa
+1637,32,4.2,Africa
+1638,186,3.5,Africa
+1639,755,2.1,Africa
+1640,229,3.47,Africa
+1641,18,3.02,Africa
+1642,742,3.17,Africa
+1643,1712,3.85,Africa
+1644,431,3.15,Africa
+1645,247,4.57,Africa
+1646,48,2.89,Africa
+1647,127,6.26,Africa
+1648,174,3.89,Africa
+1649,185,5.81,Africa
+1650,87,4.5,Africa
+1651,154,2.84,Africa
+1652,119,5.15,Africa
+1653,43,1.54,Africa
+1654,2085,7.91,Africa
+1655,187,5.4,Africa
+1656,134,10.14,Africa
+1657,1193,9.64,Africa
+1658,87,8.22,Africa
+1659,313,10.95,Africa
+1660,266,6.39,Africa
+1661,686,7.9,Africa
+1662,7654,12.87,Africa
+1663,61,5.66,Africa
+1664,10,7.3,Africa
+1665,111,8.6,Africa
+1666,23,25.27,Africa
+1667,0,0,Africa
+1668,185,11.1,Africa
+1669,2,1.12,Africa
+1670,18,7.26,Africa
+1671,18,16.82,Africa
+1672,25,18.12,Africa
+1673,4,1.37,Africa
+1674,20,10.15,Africa
+1675,10,2.66,Africa
+1676,25,22.32,Africa
+1677,1,2.63,Africa
+1678,27,17.2,Africa
+1679,96,7.04,Africa
+1680,2945,12.84,Africa
+1681,4,26.67,Africa
+1682,0,0,Europe
+1683,0,0,Europe
+1684,0,0,Europe
+1685,0,0,Europe
+1686,0,0,Europe
+1687,0,0,Europe
+1688,0,0,Europe
+1689,0,0,Europe
+1690,0,0,Eastern Mediterranean
+1691,,,Eastern Mediterranean
+1692,,,Eastern Mediterranean
+1693,8,88.89,Eastern Mediterranean
+1694,6,0.5,Eastern Mediterranean
+1695,23,2.15,Eastern Mediterranean
+1696,8,5.6,Eastern Mediterranean
+1697,219,41.56,Eastern Mediterranean
+1698,0,0,Eastern Mediterranean
+1699,206,1.7,Eastern Mediterranean
+1700,0,0,Eastern Mediterranean
+1701,1,8.33,Eastern Mediterranean
+1702,,,Eastern Mediterranean
+1703,43,3.63,Eastern Mediterranean
+1704,0,0,Eastern Mediterranean
+1705,17,2.37,Eastern Mediterranean
+1706,55,1.4,Eastern Mediterranean
+1707,1,4.76,Eastern Mediterranean
+1708,1107,16.51,Eastern Mediterranean
+1709,86,23.5,Eastern Mediterranean
+1710,4,9.52,Americas
+1711,49,2.03,Americas
+1712,29,2.46,Americas
+1713,2,0.13,Western Pacific
+1714,95,1.06,Western Pacific
+1715,45,2.3,Western Pacific
+1716,0,0,Western Pacific
+1717,464,35.89,Western Pacific
+1718,0,0,Americas
+1719,0,0,Americas
+1720,0,0,Americas
+1721,0,0,Americas
+1722,0,0,Americas
+1723,6,0.64,Americas
+1724,6,0.39,Americas
+1725,568,1.36,Americas
+1726,29,0.83,Americas
+1727,21,0.46,Americas
+1728,171,0.76,Americas
+1729,199,0.83,Americas
+1730,575,0.79,Americas
+1731,801,0.33,Americas
+1732,2909,0.9,Americas
+1733,0,0,Western Pacific
+1734,8,0.2,Western Pacific
+1735,0,0,Western Pacific
+1736,14,0.8,Western Pacific
+1737,3,2.5,Western Pacific
+1738,2,6.06,Western Pacific
+1739,0,0,Western Pacific
+1740,1,1.5,Western Pacific
+1741,2,1.44,Western Pacific
+1742,3,0.56,Western Pacific
+1743,,,Western Pacific
+1744,6,2.18,Western Pacific
+1745,0,0,Western Pacific
+1746,17,2.33,Western Pacific
+1747,0,0,Western Pacific
+1748,14,1,Western Pacific
+1749,4,0.47,Western Pacific
+1750,27,0.81,Western Pacific
+1751,10,1.41,Western Pacific
+1752,0,0,Western Pacific
+1753,1,10,Western Pacific
+1754,31,3.33,Western Pacific
+1755,51,5.9,Western Pacific
+1756,61,7.3,Western Pacific
+1757,408,32.18,Western Pacific
+1758,122,8.66,Western Pacific
+1759,180,13.21,Western Pacific
+1760,160,12.72,Western Pacific
+1761,15,2.21,Western Pacific
+1762,33,1.91,Western Pacific
+1763,447,15.74,Western Pacific
+1764,78,1.39,Western Pacific
+1765,109,3.04,Western Pacific
+1766,38,3.47,Western Pacific
+1767,106,6.88,Western Pacific
+1768,89,3.19,Western Pacific
+1769,52,3.19,Western Pacific
+1770,273,5.19,Western Pacific
+1771,448,9.78,Western Pacific
+1772,1518,9.22,Western Pacific
+1773,433,10.88,Western Pacific
+1774,1682,12.92,Western Pacific
+1775,1405,14.16,Western Pacific
+1776,0,0,Europe
+1777,0,0,Europe
+1778,,,Europe
+1779,0,0,Europe
+1780,0,0,Europe
+1781,8,0.75,Europe
+1782,48,1.95,Europe
+1783,4,6.25,Europe
+1784,0,0,Eastern Mediterranean
+1785,0,0,Eastern Mediterranean
+1786,,,Eastern Mediterranean
+1787,0,0,Western Pacific
+1788,0,0,Western Pacific
+1789,,0,Western Pacific
+1790,0,0,Western Pacific
+1791,0,0,Western Pacific
+1792,0,0,Western Pacific
+1793,0,0,Western Pacific
+1794,0,0,Western Pacific
+1795,0,0,Western Pacific
+1796,0,0,Western Pacific
+1797,0,0,Western Pacific
+1798,4,3.54,Western Pacific
+1799,4,2.76,Western Pacific
+1800,23,4.84,Western Pacific
+1801,137,8.91,Western Pacific
+1802,1,9.09,Western Pacific
+1803,38,9.16,Western Pacific
+1804,5,2.08,Europe
+1805,0,0,Europe
+1806,0,0,Europe
+1807,3,2.54,Europe
+1808,4,5,Europe
+1809,0,0,Europe
+1810,0,0,Europe
+1811,9,3.98,Europe
+1812,1,0.37,Europe
+1813,0,0,Europe
+1814,0,0,Europe
+1815,0,0,Europe
+1816,,,Europe
+1817,0,0,Europe
+1818,0,0,Europe
+1819,0,0,Europe
+1820,0,0,Europe
+1849,0,0,Africa
+1850,34,5.99,Africa
+1851,35,6.96,Africa
+1852,35,5.15,Africa
+1853,0,0,Africa
+1854,3,4.29,Africa
+1855,6,5.94,Africa
+1856,7,3.1,Africa
+1857,0,0,Africa
+1858,13,8.07,Africa
+1859,5,9.26,Africa
+1860,2,1,Africa
+1861,1,4.17,Africa
+1862,4,13.33,Africa
+1863,0,0,Africa
+1864,48,5.73,Africa
+1865,0,0,Western Pacific
+1866,4,3.36,Africa
+1867,0,0,Africa
+1868,9,0.97,Africa
+1869,33,1.68,Africa
+1870,1,33.33,Africa
+1871,9,1.12,Africa
+1872,64,1.62,Africa
+1873,,,Eastern Mediterranean
+1874,3,4.05,Eastern Mediterranean
+1875,0,0,Eastern Mediterranean
+1876,0,0,Eastern Mediterranean
+1877,0,0,Eastern Mediterranean
+1878,1,3.33,Eastern Mediterranean
+1879,0,0,Eastern Mediterranean
+1880,0,0,Eastern Mediterranean
+1881,48,52.75,Eastern Mediterranean
+1882,0,0,Eastern Mediterranean
+1883,14,5.26,Eastern Mediterranean
+1884,0,0,Africa
+1885,,0,Africa
+1886,0,0,Africa
+1887,0,0,Africa
+1888,20,1.56,Africa
+1889,24,0.6,Africa
+1890,10,2.74,Africa
+1891,458,0,Africa
+1892,10,0.82,Africa
+1893,11,2.97,Africa
+1894,765,4.75,Africa
+1895,160,4.8,Africa
+1896,1,0.26,Africa
+1897,288,9.14,Africa
+1898,63,13.24,Africa
+1899,474,15.86,Africa
+1900,94,12.91,Africa
+1901,0,0,Africa
+1902,3,2.91,Africa
+1903,8,2.54,Africa
+1904,37,9.76,Africa
+1905,60,22.64,Africa
+1906,0,0,Africa
+1907,1,0.56,Africa
+1908,0,0,Africa
+1909,0,0,Africa
+1910,32,8.49,Africa
+1911,299,1.29,Africa
+1912,1,1.61,Africa
+1913,84,3.79,Africa
+1914,99,3.87,Africa
+1915,0,0,Africa
+1916,42,8.19,Africa
+1917,5,0.58,Africa
+1918,57,2.72,Africa
+1919,447,4.35,Africa
+1920,623,6.42,Africa
+1921,30,5.39,Africa
+1922,669,7.47,Africa
+1923,0,0,Africa
+1924,13,6.16,Africa
+1925,74,25.26,Africa
+1926,0,0,Western Pacific
+1927,0,0,Western Pacific
+1928,0,0,Western Pacific
+1929,,,Western Pacific
+1930,1,9.09,Western Pacific
+1931,0,0,Western Pacific
+1932,,,Western Pacific
+1933,0,0,Western Pacific
+1934,0,0,Western Pacific
+1935,0,0,Western Pacific
+1936,2,6.45,Western Pacific
+1937,0,0,Western Pacific
+1938,1,5.26,Western Pacific
+1939,0,0,Western Pacific
+1940,1,2.44,Western Pacific
+1941,0,0,Western Pacific
+1942,0,0,Western Pacific
+1943,2,5.88,Western Pacific
+1944,0,0,Western Pacific
+1945,0,0,Western Pacific
+1946,0,0,Western Pacific
+1947,0,0,Western Pacific
+1948,0,0,Western Pacific
+1949,1,3.7,Western Pacific
+1950,8,20,Western Pacific
+1951,0,0,Western Pacific
+1952,0,0,Western Pacific
+1953,0,0,Western Pacific
+1954,0,0,Western Pacific
+1955,0,0,Western Pacific
+1956,0,0,Western Pacific
+1957,0,0,Western Pacific
+1958,0,0,Western Pacific
+1959,0,0,Western Pacific
+1960,0,0,Western Pacific
+1961,3,2.63,Western Pacific
+1962,4,36.36,Western Pacific
+1963,0,0,Western Pacific
+1964,3,12.5,Western Pacific
+1965,2,7.41,Western Pacific
+1966,,,Western Pacific
+1967,0,0,Europe
+1968,548,3.5,Eastern Mediterranean
+1969,84,1.1,Eastern Mediterranean
+1970,,,Eastern Mediterranean
+1971,140,2.04,Eastern Mediterranean
+1972,200,0.89,Eastern Mediterranean
+1973,1130,1.46,Eastern Mediterranean
+1974,103,2.93,Eastern Mediterranean
+1975,3,1.44,Eastern Mediterranean
+1976,16,1.25,Eastern Mediterranean
+1977,1182,2.84,Eastern Mediterranean
+1978,26,0.58,Eastern Mediterranean
+1979,56,0.51,Eastern Mediterranean
+1980,159,5.73,Eastern Mediterranean
+1981,93,3.62,Eastern Mediterranean
+1982,563,7.51,Eastern Mediterranean
+1983,693,3.9,Eastern Mediterranean
+1984,196,4.44,Eastern Mediterranean
+1985,252,3.7,Eastern Mediterranean
+1986,464,4.52,Eastern Mediterranean
+1987,191,2.06,Eastern Mediterranean
+1988,1206,4.26,Eastern Mediterranean
+1989,1945,12.17,Eastern Mediterranean
+1990,1589,15.58,Eastern Mediterranean
+1991,10,11.24,Eastern Mediterranean
+1992,10,23.26,Eastern Mediterranean
+1993,0,0,Africa
+1994,57,0.54,Africa
+1995,22,0.56,Africa
+1996,0,0,Africa
+1997,28,0.8,Africa
+1998,35,1.26,Africa
+1999,45,1.15,Africa
+2000,32,0.32,Africa
+2001,232,0.22,Africa
+2002,68,0.35,Africa
+2003,2,2.94,Africa
+2004,1,5,Africa
+2005,0,0,Africa
+2006,2,2.56,Africa
+2007,0,0,Africa
+2008,0,0,Africa
+2009,0,0,Africa
+2010,1,0.83,Africa
+2011,4,0.15,Africa
+2012,20,1.69,Africa
+2013,63,1.34,Africa
+2014,224,1.87,Africa
+2015,52,1.24,Africa
+2016,16,1.86,Africa
+2017,0,0,Africa
+2018,0,0,Africa
+2019,0,0,Africa
+2020,82,1.9,Africa
+2021,47,2.6,Africa
+2022,167,2.6,Africa
+2023,0,0,Europe
+2024,0,0,Europe
+2025,0,0,Europe
+2026,0,0,Europe
+2027,,,Europe
+2028,,,Europe
+2029,0,0,Europe
+2030,0,0,Europe
+2031,0,0,Europe
+2032,0,0,Europe
+2033,0,0,Europe
+2034,0,0,Europe
+2035,0,0,Europe
+2036,0,0,Europe
+2037,,,Europe
+2038,0,0,Europe
+2039,0,0,Europe
+2040,0,0,Europe
+2041,,,Europe
+2042,0,0,Europe
+2043,0,0,Europe
+2044,,,Europe
+2045,,,Europe
+2046,1,11.11,South-East Asia
+2047,0,0,South-East Asia
+2048,5,4.63,South-East Asia
+2049,49,3.19,South-East Asia
+2050,12,2.79,South-East Asia
+2051,0,0,South-East Asia
+2052,3,2.48,South-East Asia
+2053,2,2.86,South-East Asia
+2054,11,7.14,South-East Asia
+2055,2,2.33,South-East Asia
+2056,21,6.8,South-East Asia
+2057,57,9.93,South-East Asia
+2058,4,3.85,South-East Asia
+2059,0,0,South-East Asia
+2060,2,4.17,South-East Asia
+2061,0,0,South-East Asia
+2062,16,2.2,South-East Asia
+2063,67,4.61,South-East Asia
+2064,333,7.3,South-East Asia
+2065,13,11.02,South-East Asia
+2066,52,0.38,Eastern Mediterranean
+2067,118,0.68,Eastern Mediterranean
+2068,500,3.64,Eastern Mediterranean
+2069,1011,3.29,Eastern Mediterranean
+2070,0,0,Eastern Mediterranean
+2071,239,5.36,Eastern Mediterranean
+2072,2,11.76,Eastern Mediterranean
+2073,176,20.83,Eastern Mediterranean
+2074,1,8.33,Americas
+2075,0,0,Europe
+2076,0,0,Europe
+2077,0,0,Europe
+2078,0,0,Europe
+2079,,,Europe
+2080,0,0,Europe
+2081,0,0,Europe
+2082,0,0,Europe
+2083,0,0,Europe
+2084,0,0,Europe
+2085,0,0,Europe
+2086,0,0,Europe
+2087,0,0,Europe
+2088,0,0,Europe
+2089,0,0,Europe
+2090,0,0,Europe
+2091,0,0,Europe
+2092,0,0,Europe
+2093,,,Europe
+2094,0,0,Europe
+2095,0,0,Europe
+2096,0,0,Europe
+2097,0,0,Europe
+2098,0,0,Europe
+2099,,,Europe
+2100,0,0,Europe
+2101,0,0,Europe
+2102,30,4.35,Eastern Mediterranean
+2103,66,2.79,Eastern Mediterranean
+2104,11,1.38,Eastern Mediterranean
+2105,6,8.96,Eastern Mediterranean
+2106,25,4.95,Eastern Mediterranean
+2107,0,0,Eastern Mediterranean
+2108,0,0,Eastern Mediterranean
+2109,0,0,Europe
+2110,5,3.03,Europe
+2111,1,1.9,South-East Asia
+2112,1,0.8,South-East Asia
+2113,0,0,South-East Asia
+2114,0,0,South-East Asia
+2115,0,0,South-East Asia
+2116,4,1.43,South-East Asia
+2117,15,0.76,South-East Asia
+2118,2,0.63,South-East Asia
+2119,3,0.69,South-East Asia
+2120,7,0.49,South-East Asia
+2121,0,0,South-East Asia
+2122,5,0.14,South-East Asia
+2123,41,1.2,South-East Asia
+2124,36,0.57,South-East Asia
+2125,1,0.47,South-East Asia
+2126,14,1.56,South-East Asia
+2127,19,2.95,South-East Asia
+2128,41,2.74,South-East Asia
+2129,16,2.51,South-East Asia
+2130,2,5.13,South-East Asia
+2131,85,1.96,South-East Asia
+2132,44,2.46,South-East Asia
+2133,123,2.94,South-East Asia
+2134,5,1.31,South-East Asia
+2135,0,0,South-East Asia
+2136,88,6.59,South-East Asia
+2137,64,4.34,South-East Asia
+2138,33,3.91,South-East Asia
+2139,40,4.16,South-East Asia
+2140,21,5.2,South-East Asia
+2141,6,4.05,South-East Asia
+2142,21,5.24,South-East Asia
+2143,4,6.15,South-East Asia
+2144,30,3.13,South-East Asia
+2145,156,7,South-East Asia
+2146,613,14.03,South-East Asia
+2147,1426,13.98,South-East Asia
+2148,0,0,South-East Asia
+2149,2,12.5,South-East Asia
+2150,0,0,Europe
+2151,0,0,Europe
+2152,0,0,Europe
+2153,1,33.33,Europe
+2154,1,2.9,Africa
+2155,11,4.2,Africa
+2156,4,2.41,Africa
+2157,1,1.64,Africa
+2158,0,0,Africa
+2159,3,4.17,Africa
+2160,1,0.46,Africa
+2161,3,0.76,Africa
+2188,0,0,Eastern Mediterranean
+2189,0,0,Eastern Mediterranean
+2190,0,0,Europe
+2191,52,13.54,Europe
+2192,2,6.67,Europe
+2193,6,1.07,Europe
+2194,0,0,Europe
+2195,0,0,Europe
+2196,8,2.73,Western Pacific
+2197,0,0,Western Pacific
+2198,11,2.1,Africa
+2199,33,2.3,Africa
+2200,9,2.9,Africa
+2201,27,3.61,Africa
+2202,135,2.13,Africa
+2203,78,3.33,Africa
+2204,23,2.1,Africa
+2205,120,3.22,Africa
+2206,3,1.09,Africa
+2207,106,2.04,Africa
+2208,98,0,Africa
+2209,91,2.69,Africa
+2210,129,2.95,Africa
+2211,133,5.85,Africa
+2212,4,1.62,Africa
+2213,172,6.13,Africa
+2214,228,4.4,Africa
+2215,2064,4.17,Africa
+2216,188,7.2,Africa
+2217,40,13.75,Africa
+2218,66,12.27,Africa
+2219,39,5.54,Africa
+2220,104,2.05,Africa
+2221,28,10.04,Africa
+2222,50,35.71,Africa
+2223,48,25.26,Africa
+2224,181,11.76,Africa
+2225,60,6.38,Africa
+2226,110,9.82,Africa
+2227,0,0,Africa
+2228,30,3.96,Africa
+2229,0,0,Europe
+2230,0,0,Europe
+2231,0,0,Europe
+2232,10,1.9,Europe
+2233,20,2.46,Europe
+2234,0,0,Europe
+2235,,,Eastern Mediterranean
+2236,0,0,Eastern Mediterranean
+2237,0,0,Europe
+2238,0,0,Europe
+2239,0,0,Europe
+2240,0,0,Europe
+2241,0,0,Europe
+2242,0,0,Europe
+2243,0,0,Europe
+2244,0,0,Europe
+2245,0,0,Europe
+2246,0,0,Europe
+2247,0,0,Europe
+2248,0,0,Europe
+2249,,,Europe
+2250,,,Europe
+2251,0,0,Europe
+2252,0,0,Europe
+2253,0,0,Europe
+2254,0,0,Europe
+2255,0,0,Europe
+2256,0,0,Europe
+2257,0,0,Europe
+2258,0,0,Europe
+2259,0,0,Europe
+2260,0,0,Europe
+2261,0,0,Europe
+2262,0,0,Europe
+2263,0,0,Europe
+2264,1,25,Europe
+2265,0,0,Europe
+2266,0,0,Europe
+2267,0,0,Europe
+2268,0,0,Europe
+2269,,,Europe
+2270,0,0,Europe
+2271,0,0,Europe
+2272,0,0,Europe
+2273,0,0,Europe
+2274,0,0,Europe
+2275,0,0,Europe
+2276,0,0,Europe
+2277,0,0,Europe
+2278,172,1.5,Africa
+2279,144,1.2,Africa
+2280,17,6.3,Africa
+2281,4,1.4,Africa
+2282,11,1.17,Africa
+2283,59,1.32,Africa
+2284,113,1.47,Africa
+2285,88,3.02,Africa
+2286,65,4.04,Africa
+2287,254,1.78,Africa
+2288,94,3.19,Africa
+2289,272,2.64,Africa
+2290,32,4.51,Africa
+2291,297,2.49,Africa
+2292,52,4,Africa
+2293,156,3.36,Africa
+2294,584,4.76,Africa
+2295,608,4.2,Africa
+2296,2231,5.54,Africa
+2297,36,2.46,Africa
+2298,96,3.25,Africa
+2299,155,6.92,Africa
+2300,74,9.34,Africa
+2301,2173,11.73,Africa
+2302,572,10.08,Africa
+2303,81,3.63,Africa
+2304,232,10.79,Africa
+2305,580,11.01,Africa
+2306,232,12.26,Africa
+2307,215,17.47,Africa
+2308,250,12.6,Africa
+2309,338,13,Africa
+2310,127,6.99,Africa
+2311,324,7.96,Africa
+2312,330,7.78,Africa
+2313,587,11.3,Africa
+2314,305,11.92,Africa
+2315,733,11.09,Africa
+2316,26,8.75,Africa
+2317,6,60,Africa
+2318,0,0,Americas
+2319,0,0,Americas
+2320,0,0,Americas
+2321,0,0,Americas
+2322,0,0,Americas
+2323,0,0,Americas
+2324,0,0,Americas
+2325,0,0,Americas
+2326,0,0,Americas
+2327,0,0,Americas
+2328,0,0,Americas
+2329,0,0,Americas
+2330,0,0,Americas
+2331,,,Americas
+2332,,,Americas
+2333,,,Americas
+2334,0,0,Americas
+2335,0,0,Americas
+2336,0,0,Americas
+2337,0,0,Americas
+2338,0,0,Americas
+2339,0,0,Americas
+2340,0,0,Americas
+2341,0,0,Americas
+2342,1,0.97,Americas
+2343,0,0,Americas
+2344,0,0,Americas
+2345,0,0,Americas
+2346,0,0,Americas
+2347,0,0,Europe
+2348,0,0,Americas
+2349,0,0,Americas
+2350,0,0,Americas
+2351,8,2.13,Americas
+2352,7,2.24,Americas
+2353,59,2.31,Americas
+2354,9,3.35,Americas
+2355,10,2.45,Americas
+2356,68,2.39,Americas
+2357,2,13.33,Americas
+2358,,0,Western Pacific
+2359,0,0,Western Pacific
+2360,1,0.21,Western Pacific
+2361,0,0,Western Pacific
+2362,0,0,Western Pacific
+2363,0,0,Western Pacific
+2364,0,0,Western Pacific
+2365,1,7.69,Western Pacific
+2366,0,0,Western Pacific
+2367,2,0.35,Western Pacific
+2368,45,0.74,Western Pacific
+2369,68,1.18,Western Pacific
+2370,9,0.27,Western Pacific
+2371,110,2.58,Western Pacific
+2372,1,1.92,Western Pacific
+2373,4,1.12,Western Pacific
+2374,0,0,Western Pacific
+2375,7,2.04,Western Pacific
+2376,5,2.31,Western Pacific
+2377,8,1.52,Western Pacific
+2378,9,1.79,Western Pacific
+2379,0,0,Western Pacific
+2380,0,0,Western Pacific
+2381,0,0,Western Pacific
+2382,8,5.1,Western Pacific
+2383,49,5.01,Western Pacific
+2384,28,7.67,Western Pacific
+2385,0,0,Western Pacific
+2386,0,0,Western Pacific
+2387,0,0,Western Pacific
+2388,0,0,Western Pacific
+2389,2,1.44,Western Pacific
+2390,18,1.2,Western Pacific
+2391,1,0.68,Western Pacific
+2392,1,0.37,Western Pacific
+2393,1,1.22,Western Pacific
+2394,26,1.01,Western Pacific
+2395,8,0.73,Western Pacific
+2396,71,0.93,Western Pacific
+2397,167,2,Western Pacific
+2398,29,1.67,Western Pacific
+2399,872,4.32,Western Pacific
+2400,3,100,Western Pacific
+2401,7,100,Western Pacific
+2402,6,85.71,Western Pacific
+2403,21,80.77,Western Pacific
+2404,4,44.44,Western Pacific
+2405,164,1,Eastern Mediterranean
+2406,134,0.42,Eastern Mediterranean
+2407,4,1.33,Eastern Mediterranean
+2408,3,5.45,Eastern Mediterranean
+2409,0,0,Eastern Mediterranean
+2410,20,2.78,Eastern Mediterranean
+2411,45,2.3,Eastern Mediterranean
+2412,12,2.9,Eastern Mediterranean
+2413,0,0,Eastern Mediterranean
+2414,1,16.67,Eastern Mediterranean
+2415,23,10.7,Eastern Mediterranean
+2416,140,13.16,Eastern Mediterranean
+2417,26,13.68,Eastern Mediterranean
+2418,2,1.01,Africa
+2419,7,2.12,Africa
+2420,62,0.91,Africa
+2421,80,1.7,Africa
+2422,39,1.89,Africa
+2423,35,1.53,Africa
+2424,183,3.41,Africa
+2425,7,0.47,Africa
+2426,373,3.07,Africa
+2427,29,2.76,Africa
+2428,12,3.54,Africa
+2429,165,5.31,Africa
+2430,303,6.73,Africa
+2431,535,3.96,Africa
+2432,0,0,Africa
+2433,0,0,Africa
+2434,42,1.93,Africa
+2435,426,6.3,Africa
+2436,913,7.83,Africa
+2437,1091,8.29,Africa
+2438,315,8.47,Africa
+2439,44,100,Africa
+2440,19,8.15,Africa
+2441,131,9.34,Africa
+2442,0,0,Africa
+2443,17,29.82,Africa
+2444,11,91.67,Africa
+2445,36,13.69,Africa
+2446,1,10,Africa
+2447,0,0,Africa
+2448,1,4.35,Africa
+2449,2,0.16,Africa
+2450,21,2.21,Africa
+2451,2706,1.38,Africa
+2452,2928,4.88,Africa
+2453,4,6.15,Africa
+2454,61,7.73,Africa
+2455,26,5.04,Africa
+2456,9,7.56,Africa
+2457,35,3.47,Africa
+2458,192,6.14,Africa
+2459,14,2.15,Africa
+2460,223,13.31,Africa
+2461,385,6.83,Africa
+2462,44,4.42,Africa
+2463,332,6.17,Africa
+2464,105,5.13,Africa
+2465,,,Africa
+2466,6,4.17,Africa
+2467,9,6.25,Africa
+2468,33,5.37,Africa
+2469,0,0,Africa
+2470,,,Africa
+2471,0,,Europe
+2472,15,,Americas
+2473,0,,Western Pacific
+2474,0,,Western Pacific
+2475,0,,Europe
+2476,0,,Europe
+2477,0,,South-East Asia
+2478,0,,Americas
+2479,0,,Africa
+2480,0,,Europe
+2481,0,,Europe
+2482,0,,Europe
+2483,0,,Europe
+2484,8,,Europe
+2485,0,,Europe
+2486,0,,Europe
+2487,0,,Europe
+2488,0,,Europe
+2489,0,,Europe
+2490,0,,Europe
+2491,0,,Europe
+2492,,0,Western Pacific
